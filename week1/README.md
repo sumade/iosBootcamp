@@ -1,3 +1,3 @@
-lab: instagram client
-hw: rotten tomatoes
+* lab: instagram client
+* hw: rotten tomatoes
 
